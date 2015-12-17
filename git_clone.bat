@@ -1,4 +1,7 @@
 cd ..
+mkdir "İŒv‘"
+cd "İŒv‘"
+
 git clone https://github.com/internousdevdoc/201407-01-bookmanager07
 git clone https://github.com/internousdevdoc/201407-02-shop
 git clone https://github.com/internousdevdoc/201409-01-bookmanager09
