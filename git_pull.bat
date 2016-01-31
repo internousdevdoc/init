@@ -136,3 +136,6 @@ cd ../201511-01-cinemajapan
 git remote set-url origin https://internousdevdoc:aUTRCLT3@github.com/internousdevdoc/201511-01-cinemajapan
 git pull
 
+cd ../201511-02-chocotime
+git remote set-url origin https://internousdevdoc:aUTRCLT3@github.com/internousdevdoc/201511-02-chocotime
+git pull

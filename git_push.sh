@@ -203,3 +203,9 @@ sudo git pull
 sudo git add --all
 sudo git commit -m "modified"
 sudo git push
+cd ../201511-01-cinemajapan
+sudo git remote set-url origin https://internousdevdoc:aUTRCLT3@github.com/internousdevdoc/201511-02-chocotime
+sudo git pull
+sudo git add --all
+sudo git commit -m "modified"
+sudo git push

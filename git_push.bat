@@ -203,3 +203,9 @@ git pull
 git add --all
 git commit -m "modified"
 git push
+cd ../201511-02-chocotime
+git remote set-url origin https://internousdevdoc:aUTRCLT3@github.com/internousdevdoc/201511-02-chocotime
+git pull
+git add --all
+git commit -m "modified"
+git push
