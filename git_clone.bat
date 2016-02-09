@@ -37,3 +37,5 @@ git clone https://github.com/internousdevdoc/201510-01-footprinter
 git clone https://github.com/internousdevdoc/201510-02-pizzaseijin
 git clone https://github.com/internousdevdoc/201511-01-cinemajapan
 git clone https://github.com/internousdevdoc/201511-02-chocotime
+git clone https://github.com/internousdevdoc/201512-01-rakuraku
+

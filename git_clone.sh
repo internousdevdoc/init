@@ -34,4 +34,5 @@ sudo git clone https://github.com/internousdevdoc/201510-01-footprinter
 sudo git clone https://github.com/internousdevdoc/201510-02-pizzaseijin
 sudo git clone https://github.com/internousdevdoc/201511-01-cinemajapan
 sudo git clone https://github.com/internousdevdoc/201511-02-chocotime
+sudo git clone https://github.com/internousdevdoc/201512-01-rakuraku
 sudo chown inouetakuma ./*
