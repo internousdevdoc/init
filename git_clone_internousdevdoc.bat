@@ -38,4 +38,6 @@ git clone https://github.com/internousdevdoc/201510-02-pizzaseijin
 git clone https://github.com/internousdevdoc/201511-01-cinemajapan
 git clone https://github.com/internousdevdoc/201511-02-chocotime
 git clone https://github.com/internousdevdoc/201512-01-rakuraku
+git clone https://github.com/internousdevdoc/201512-02-kinnosawa
+git clone https://github.com/internousdevdoc/201601-01-mackeypark
 

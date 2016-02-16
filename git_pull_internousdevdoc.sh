@@ -140,3 +140,14 @@ cd ../201511-02-chocotime
 sudo git remote set-url origin https://internousdevdoc:aUTRCLT3@github.com/internousdevdoc/201511-02-chocotime
 sudo git pull
 
+cd ../201512-01-rakuraku
+sudo git remote set-url origin https://internousdevdoc:aUTRCLT3@github.com/internousdevdoc/201512-01-rakuraku
+sudo git pull
+
+cd ../201512-02-kinnosawa
+sudo git remote set-url origin https://internousdevdoc:aUTRCLT3@github.com/internousdevdoc/201512-02-kinnosawa
+sudo git pull
+
+cd ../201601-01-mackeypark
+sudo git remote set-url origin https://internousdevdoc:aUTRCLT3@github.com/internousdevdoc/201601-01-mackeypark
+sudo git pull
