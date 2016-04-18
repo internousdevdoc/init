@@ -209,3 +209,23 @@ git pull
 git add --all
 git commit -m "modified"
 git push
+cd ../201512-01-rakuraku
+git remote set-url origin https://internousdevdoc:aUTRCLT3@github.com/internousdevdoc/201512-01-rakuraku
+git pull
+git add --all
+git push
+cd ../201512-02-kinnosawa
+git remote set-url origin https://internousdevdoc:aUTRCLT3@github.com/internousdevdoc/201512-02-kinnosawa
+git pull
+git add --all
+git push
+cd ../201601-01-mackeypark
+git remote set-url origin https://internousdevdoc:aUTRCLT3@github.com/internousdevdoc/201601-01-mackeypark
+git pull
+git add --all
+git push
+cd ../201601-02-kuruyama
+git remote set-url origin https://internousdevdoc:aUTRCLT3@github.com/internousdevdoc/201601-02-kuruyama
+git pull
+git add --all
+git push

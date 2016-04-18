@@ -227,3 +227,9 @@ sudo git pull
 sudo git add --all
 sudo git commit -m "modified"
 sudo git push
+cd ../201601-02-kuruyama
+sudo git remote set-url origin https://internousdevdoc:aUTRCLT3@github.com/internousdevdoc/201601-02-kuruyama
+sudo git pull
+sudo git add --all
+sudo git commit -m "modified"
+sudo git push

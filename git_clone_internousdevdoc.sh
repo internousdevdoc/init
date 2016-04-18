@@ -37,5 +37,7 @@ sudo git clone https://github.com/internousdevdoc/201511-02-chocotime
 sudo git clone https://github.com/internousdevdoc/201512-01-rakuraku
 sudo git clone https://github.com/internousdevdoc/201512-02-kinnosawa
 sudo git clone https://github.com/internousdevdoc/201601-01-mackeypark
+sudo git clone https://github.com/internousdevdoc/201601-02-kuruyama
+sudo git clone https://github.com/internousdevdoc/201602-01-gekidanroadshow
 
 sudo chown inouetakuma ./*
