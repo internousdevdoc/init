@@ -39,5 +39,22 @@ sudo git clone https://github.com/internousdevdoc/201512-02-kinnosawa
 sudo git clone https://github.com/internousdevdoc/201601-01-mackeypark
 sudo git clone https://github.com/internousdevdoc/201601-02-kuruyama
 sudo git clone https://github.com/internousdevdoc/201602-01-gekidanroadshow
+sudo git clone https://github.com/internousdevdoc/201603-01-solare-phase2
+sudo git clone https://github.com/internousdevdoc/201603-01-uesto-phase2
+sudo git clone https://github.com/internousdevdoc/201604-01-chikezon-phase2
+sudo git clone https://github.com/internousdevdoc/201604-01-gtickets-phase2
+sudo git clone https://github.com/intenrousdevdoc/201604-01-lapoupee-phase2
+sudo git clone https://github.com/internousdevdoc/201605-01-baseballticket-phase2
+sudo git clone https://github.com/internousdevdoc/201605-01-biggalaxy-phase2
+sudo git clone https://github.com/internousdevdoc/201605-01-cinemajapan-phase2
+sudo git clone https://github.com/internousdevdoc/201605-01-ichigoichie-phase3
+sudo git clone https://github.com/internousdevdoc/201605-01-liveticket-phase2
+sudo git clone https://github.com/internousdevdoc/201605-01-tbox-phase2
+sudo git clone https://github.com/internousdevdoc/201606-01-visa-phase1
+sudo git clone https://github.com/internousdevdoc/201607-01-internousdev-phase1
+sudo git clone https://github.com/internousdevdoc/201607-01-openconnect-phase1
+sudo git clone https://github.com/internousdevdoc/201607-01-visa-phase2
+
+
 
 sudo chown inouetakuma ./*
